@@ -1,4 +1,4 @@
 temporarily-permissions
 =======================
 
-Temporarily Resetting Permissions
+Execute os comados no ssh
