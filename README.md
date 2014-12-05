@@ -14,3 +14,5 @@ EX2: Ubuntu, /var/www/magento.
 3.Instale as extensões no magento connect.
 
 4.Após instalar execute as <a href="https://github.com/JonatanM/temporarily-permissions/blob/master/permissoes-recomendadas"><span>Permissoes recomendadas</span></a>.
+
+Pronto.
