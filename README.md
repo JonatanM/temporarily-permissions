@@ -1,4 +1,4 @@
 temporarily-permissions
 =======================
 
-Execute os comados no ssh
+Execute os comandos no ssh
