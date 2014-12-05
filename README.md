@@ -8,7 +8,7 @@ EX1: CentOS, /var/www/html/magento.
 
 EX2: Ubuntu, /var/www/magento.
 
-2.Execute os o primeiro comando de <a href="https://github.com/JonatanM/temporarily-permissions/blob/master/permissoes-temporarias"><span>Permissoes temporárias</span></a> ssh.
+2.Execute o primeiro comando de <a href="https://github.com/JonatanM/temporarily-permissions/blob/master/permissoes-temporarias"><span>Permissoes temporárias</span></a>.
 
 
 3.Instale as extensões no magento connect.
