@@ -1,0 +1,9 @@
+====================================
+Permissoes recomendadas
+====================================
+
+find . -type d -exec chmod 775 {} \;
+find . -type f -exec chmod 644 {} \;
+chmod 777 -R app/etc/;
+chmod 777 -R var/;
+chmod 777 -R media/;
