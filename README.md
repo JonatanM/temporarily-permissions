@@ -1,4 +1,4 @@
 Comando executar Permissão Magento
 =======================
-Permissão de pastas e arquivos temporaria magento
-Execute os comandos no ssh
+Permissão temporaria de pastas e arquivos no magento.
+Execute os comandos ssh.
